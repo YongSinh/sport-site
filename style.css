@@ -68,7 +68,7 @@ body {
         background-color: #F9F3DF;
       }
   }
-  @media ( min-width: 200px) {
+  @media ( mix-width: 600px) {
     .h3-s1{
         font-size: 20px;
         line-height: 40px;
@@ -84,6 +84,9 @@ body {
     .content-home{
         height: 180vh;
         background-color: #F9F3DF;
+      }
+      .container-s1{
+        margin-left: 15px;
       }
   }
 .content-h2{
